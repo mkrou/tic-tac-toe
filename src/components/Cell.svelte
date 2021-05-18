@@ -23,12 +23,12 @@
     }
 
     .wolf {
-        background-image: url("/images/wolf.png");
+        background-image: url("/tic-tac-toe/images/wolf.png");
         background-size: cover;
     }
 
     .bunny {
-        background-image: url("/images/bunny.png");
+        background-image: url("/tic-tac-toe/images/bunny.png");
         background-size: cover;
     }
 
